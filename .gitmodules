@@ -1,0 +1,3 @@
+[submodule "spring-repo"]
+	path = spring-repo
+	url = https://github.com/spring-projects/spring-framework
